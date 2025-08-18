@@ -1,0 +1,25 @@
+{
+  "name": "api-harry-potter",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000p\u0000i\u0000-\u0000h\u0000a\u0000r\u0000r\u0000y\u0000p\u0000o\u0000t\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "bruxos.json",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supremeduck3/api-harrypotter.git"
+  },
+  "author": "Pedro Otávio de Andrade Braga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Supremeduck3/api-harrypotter/issues"
+  },
+  "homepage": "https://github.com/Supremeduck3/api-harrypotter#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
